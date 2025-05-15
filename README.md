@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Avril009d
-- 👀 I’m interested in advancing my skills in Python and R. 
-- 🌱 I’m currently learning how to navigate challenging tasks in Python and eventually R. 
-- 💞️ I’m looking to eventually collaborate on smaller projects so that I can get my feet wet in ML and then more....
+- 👀 I’m at a stage where I want to explore advanced skills in Python and R. 
+- 🌱 I will always be in a stage of learning because that is what this type of industry does for me, it encourages me to grow. 
+- 💞️ I’m ready to start collaborating with others and learning what they know and hopefully I can teach others what I know.
 - 📫 How to reach me PinkRoses9100@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
